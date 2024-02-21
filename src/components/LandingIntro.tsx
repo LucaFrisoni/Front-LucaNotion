@@ -20,7 +20,7 @@ const LandingIntro = () => {
         Discover LucaNotion, your space to create notes that go further,
         organize everything the way you want and make notes come to life.
       </p>
-      <Link href="/sign-in">
+      <Link href="/dashboard">
         <Button size="lg" variant="primary" className=" mt-6 text-base">
           Get Started <ArrowRight className="ml-2" />
         </Button>
